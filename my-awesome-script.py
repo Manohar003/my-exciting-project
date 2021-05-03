@@ -1,3 +1,3 @@
 #!/bin/python
-#This is an awesome python script q
+#This is an awesome python script
 print('Howdy, World!')
