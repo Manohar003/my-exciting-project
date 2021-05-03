@@ -1,2 +1,3 @@
 #!/bin/python
-print('Hello, World!')
+#This is an awesome python script by manohar
+print('Howdy, World!')
