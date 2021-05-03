@@ -1,3 +1,3 @@
 #!/bin/python
-#This is an awesome python script by manohar
+#This is an awesome python script q
 print('Howdy, World!')
