@@ -1,2 +1,2 @@
 #!/bin/python
-print('Hello, World!')
+print('Hajimemashite sekai!-It is a japanese word')
